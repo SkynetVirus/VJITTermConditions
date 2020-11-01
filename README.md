@@ -1,2 +1,0 @@
-# VJITTermConditions
-Term and Condition

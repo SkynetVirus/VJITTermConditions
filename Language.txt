@@ -1,5 +1,4 @@
 {
-          'hello': 'Hallo Welt',
           'Blocked_User': 'Danh sách người dùng chặn',
           'Non_Blocked_User': 'Chưa người dùng nào!',
           'Pull_To_Refresh': 'Kéo lên để lấy thêm dữ liệu',
